@@ -1,1 +1,10 @@
 console.log("Avishka");
+let fullname="Avishka Srivastava";
+console.log(fullname);
+let age=24;
+let price=99.99;
+console.log(age,price);
+x=null;
+console.log(x);
+y=undefined;
+console.log(y);
