@@ -20,3 +20,4 @@ console.log(y);
  console.log(student.college);
  student["years"]=student["years"] + 1;
  console.log(student.years);
+ console.log(student);
